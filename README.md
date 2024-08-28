@@ -15,7 +15,7 @@
 <hr>
 
 <div align="center">
-  <img height="180em" src="https://gihtub-readme-stats.vercel.app/api?username=pedrootavio-yi&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="90em" src="https://gihtub-readme-stats.vercel.app/api/top-langs?username=pedrootavio-yi&layout=compact&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Ferramentas%20Mais%20Utilizadas" />
+  <img height="180em" src="https://github-readme-stats-yi.vercel.app//api?username=pedrootavio-yi&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats-yi.vercel.app//api/top-langs?username=pedrootavio-yi&layout=compact&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Ferramentas%20Mais%20Utilizadas" />
 </div>
 
